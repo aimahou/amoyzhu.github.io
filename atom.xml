@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>一七那年夏天</title>
   
-  
+  <subtitle>开始写博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://amoyzhu.github.io/"/>
   <updated>2017-09-18T01:59:07.873Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://amoyzhu.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ryan zhu</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>about me</title>
-    <link href="http://yoursite.com/2017/09/18/about-me/"/>
-    <id>http://yoursite.com/2017/09/18/about-me/</id>
+    <link href="https://amoyzhu.github.io/2017/09/18/about-me/"/>
+    <id>https://amoyzhu.github.io/2017/09/18/about-me/</id>
     <published>2017-09-18T01:57:31.000Z</published>
     <updated>2017-09-18T01:59:07.873Z</updated>
     
@@ -28,14 +28,14 @@
     </summary>
     
     
-      <category term="testaboutme" scheme="http://yoursite.com/tags/testaboutme/"/>
+      <category term="testaboutme" scheme="https://amoyzhu.github.io/tags/testaboutme/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/18/hello-world/"/>
-    <id>http://yoursite.com/2017/09/18/hello-world/</id>
+    <link href="https://amoyzhu.github.io/2017/09/18/hello-world/"/>
+    <id>https://amoyzhu.github.io/2017/09/18/hello-world/</id>
     <published>2017-09-18T01:38:43.281Z</published>
     <updated>2017-09-18T01:38:43.281Z</updated>
     
